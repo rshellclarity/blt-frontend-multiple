@@ -33,6 +33,7 @@ You may perform these tasts separately using these commands:
 
 `blt source:frontend:reset` (sfe:reset) - Removes all the requirement and dependency packages from your themes and starts again.
 
+## Additional Scripts
 
 Shell scripts are also included to use with non-BLT tooling:
 ```
