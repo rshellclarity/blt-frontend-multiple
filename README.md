@@ -35,7 +35,7 @@ You may perform these tasts separately using these commands:
 
 
 Shell scripts are also included to use with non-BLT tooling:
-
-`bash build-frontend-reqs.sh`
-
-`bash compile-frontend-assets.sh`
+```
+bash build-frontend-reqs.sh
+bash compile-frontend-assets.sh
+```
