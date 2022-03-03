@@ -28,9 +28,9 @@ Run `blt source:frontend`  (sfe) to both build and compile all your theme assets
 You may perform these tasts separately using these commands:
 
 ```
-> `**`blt source:frontend:build  (sfe:build)`**` - Builds the Node and Gulp frontend requirements and their dependencies for each custom theme in your project using NPM.
-> `**`blt source:frontend:compile (sfe:compile)`**` - Compiles the frontend assets for each custom theme in your project using Gulp and Node SASS.
-> `**`blt source:frontend:reset (sfe:reset)`**` - Removes all the requirement and dependency packages from your themes and starts again.
+**blt source:frontend:build  (sfe:build)** - Builds the Node and Gulp frontend requirements and their dependencies for each custom theme in your project using NPM.
+**blt source:frontend:compile (sfe:compile)** - Compiles the frontend assets for each custom theme in your project using Gulp and Node SASS.
+**blt source:frontend:reset (sfe:reset)** - Removes all the requirement and dependency packages from your themes and starts again.
 ```
 
 ## Additional Scripts
